@@ -123,9 +123,7 @@ See [original repository](https://github.com/digitalinnovationone/dio-lab-vibe-c
 
 ## Final Result
 
-Access the functional prototypes on Lovable:  
-**[financialassistent.lovable.app](financialassistent.lovable.app/)**
-
+Access the functional prototype on Lovable:  
 **[financialassistantflow.lovable.app](https://financialassistantflow.lovable.app)**
 
 ![Chat](Images/Chat_APP_FinanceFlow.png)
