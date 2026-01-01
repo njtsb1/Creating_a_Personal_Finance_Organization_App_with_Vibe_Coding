@@ -2,7 +2,7 @@ Daily learning
 
 # Creating a Personal Finance Organization App with Vibe Coding
 
-Project developed at the Bootcamp CAIXA - Artificial Intelligence in Practice with guidance from specialist [Venilton Falvo Jr](https://github.com/falvojr "Venilton Falvo Jr").
+Project developed at the Bootcamp CAIXA - Artificial Intelligence in Practice with guidance from specialist [Venilton Falvo Jr](https://github.com/falvojr "Venilton FalvoJr").
 
 Learning to create the concept of a Personal Finance Organization App with AI, exploring Vibe Coding, a light and creative way to program by conversing with AI. The goal was to propose a solution to the problem of manual and tedious financial control, using AI agents capable of creating automatic savings plans and interacting through natural conversations. We developed a simplified PRD (briefing for the AI), improving the prompts in Copilot and testing Lovable to generate screen flows, MVP plans, and intelligent agents. Finally, we delivered the final prompt in the repository, containing screenshots of the interactions and a reflection on the process. More than just code, this challenge teaches you to think together with AI, transforming ideas into creative and functional solutions.
 
