@@ -183,3 +183,4 @@ I was hoping to be able to interact with Lovable more often for free, but the in
 
 ### What have I learned about communicating with AIs?
 I learned that it's basically the same as talking to a person: the more details and clarity you provide, the better the interaction.
+# Creating_a_Personal_Finance_Organization_App_with_Vibe_Coding
