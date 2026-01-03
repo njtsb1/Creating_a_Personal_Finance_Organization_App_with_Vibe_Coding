@@ -126,13 +126,36 @@ See [original repository](https://github.com/digitalinnovationone/dio-lab-vibe-c
 Access the functional prototype on Lovable:  
 **[financialassistantflow.lovable.app](https://financialassistantflow.lovable.app)**
 
+## Chat
+
 ![Chat](Images/Chat_APP_FinanceFlow.png)
+
+## Goals
+
 ![Goals](Images/Goals_APP_FinanceFlow.png)
+
+## Reports
+
 ![Reports](Images/Reports_APP_FinanceFlow.png)
+
+## Graphic Pizza
+
 ![Graphic](Images/Category_Graphic_Pizza_APP_FinanceFlow.png)
+
+## Graphic Bar
+
 ![Graphic](Images/Category_Graphic_Bar_APP_FinanceFlow.png)
+
+## Transation
+
 ![Transation](Images/Transations_Recent_APP_FinanceFlow.png)
+
+## Language
+
 ![Language](Images/Languages_APP_FinanceFlow.png)
+
+## Mode Dark/Light
+
 ![Mode](Images/Dark_Light_Mode_APP_FinanceFlow.png)
 
 ---
